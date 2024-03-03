@@ -27,3 +27,10 @@ To get a local copy up and running follow these simple steps:
 
    ```bash
    git clone https://github.com/withjass19/Facebook-sign-in.git
+
+2. Navigate into the project directory:
+
+   ```bash
+   git clone https://github.com/withjass19/Facebook-sign-in.git
+
+3. Open the index.html file in your preferred web browser.
