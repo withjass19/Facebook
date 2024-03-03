@@ -1,4 +1,4 @@
-<h1><strong>Facebook Sign-Up Page Clone</strong></h1>
+# Facebook Sign-Up Page Clone
 
 
 This project is a clone of Facebook's sign-up page created by Jass19. It replicates the look and feel of Facebook's sign-up page with HTML and CSS.
