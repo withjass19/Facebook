@@ -1,7 +1,6 @@
 # Facebook Sign-Up Page Clone
 
-![Facebook Sign-Up Page Clone](https://raw.githubusercontent.com/withjass19/Facebook-sign-in/main/screenshot.png)
-
+![Facebook Sign-Up Page Clone](UI.png)
 This project is a clone of Facebook's sign-up page created by [Jass19](https://github.com/withjass19). It replicates the look and feel of Facebook's sign-up page with HTML and CSS.
 
 ## Demo
